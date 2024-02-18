@@ -1,6 +1,6 @@
 # Microservice Deployment and Management Platform
 
-Welcome to our Microservice Deployment and Management Platform! This platform enables users to deploy and manage microservices-based applications on Kubernetes clusters with ease. Whether you're a developer, DevOps engineer, or system administrator, this platform simplifies the process of deploying, monitoring, and managing microservices in a Kubernetes environment.
+Welcome to my Microservice Deployment and Management Platform! This platform enables users to deploy and manage microservices-based applications on Kubernetes clusters with ease. Whether you're a developer, DevOps engineer, or system administrator, this platform simplifies the process of deploying, monitoring, and managing microservices in a Kubernetes environment.
 
 ## Key Features
 
@@ -72,4 +72,4 @@ To get started with our platform, follow these steps:
 
 ## Contributing
 
-Contributions to our Microservice Deployment and Management Platform are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+Contributions to this Microservice Deployment and Management Platform are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
